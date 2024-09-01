@@ -38,7 +38,7 @@ These keys are for legal use only. Ensure compliance with relevant laws and soft
 
 ### Installation Guide
 
-- **Download Link**: [VMware Workstation Pro 17](https://www.vmware.com/go/getworkstation-win)
+- **Download Link**: [VMware Workstation Pro 17](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 - **Activation Key**:
   ```
   MC60H-DWHD5-H80U9-6V85M-8280D (VMWare Workstation Pro 17) - 100% Tested
