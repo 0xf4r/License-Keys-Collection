@@ -34,6 +34,33 @@ These keys are for legal use only. Ensure compliance with relevant laws and soft
 
 ---
 
+## Windows 10 Pro
+
+### Using Product Key (Installation Guide)
+
+- **Download Link**: [Windows 10 Pro](https://www.microsoft.com/en-gb/software-download/windows10)
+- **Product Key**:
+  ```
+  RHGJR-N7FVY-Q3B8F-KBQ6V-46YP4
+  ```
+- **Steps**:
+  1. Download Windows 10 Pro.
+  2. Begin the installation process.
+  3. Enter the installation key when prompted.
+
+### Using Activation Key
+
+- **Commands**:
+  1. Open CMD as Administrator.
+  2. Run the following commands:
+     ```bash
+     slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX  # Activation Key
+     slmgr /skms kms8.msguides.com
+     slmgr /ato
+     ```
+
+---
+
 ## VMware Workstation Pro 17
 
 ### Installation Guide
